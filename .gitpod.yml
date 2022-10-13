@@ -1,1 +1,1 @@
-image: gitpod:workspace-java-17
+image: docker.io/gitpod/workspace-java-17:2022-10-13-11-22-45
